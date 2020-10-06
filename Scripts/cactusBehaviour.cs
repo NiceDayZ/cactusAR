@@ -5,7 +5,6 @@ using UnityEngine;
 public class cactusBehavior : MonoBehaviour
 {
     public Animator animator;
-    protected AnimatorOverrideController animatorOverrideController;
     // Start is called before the first frame update
     void Start()
     {
