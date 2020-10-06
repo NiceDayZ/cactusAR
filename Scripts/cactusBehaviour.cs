@@ -18,6 +18,7 @@ public class cactusBehavior : MonoBehaviour
         
     }
 
+	//
     void FixedUpdate(){
         float Dist = Vector3.Distance(Camera.main.transform.position,transform.position);
         Debug.Log(Dist);
